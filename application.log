@@ -1,0 +1,4 @@
+03-27-2019 00:27:48 PoolingHttpClientConnectionManager.java DEBUG [Finalizer] conn.PoolingHttpClientConnectionManager 408 - Connection manager is shutting down
+03-27-2019 00:27:48 PoolingHttpClientConnectionManager.java DEBUG [Finalizer] conn.PoolingHttpClientConnectionManager 414 - Connection manager shut down
+03-27-2019 00:27:48 PoolingHttpClientConnectionManager.java DEBUG [Finalizer] conn.PoolingHttpClientConnectionManager 408 - Connection manager is shutting down
+03-27-2019 00:27:48 PoolingHttpClientConnectionManager.java DEBUG [Finalizer] conn.PoolingHttpClientConnectionManager 414 - Connection manager shut down
